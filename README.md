@@ -1,8 +1,8 @@
 # Module Heltec_lora32_v2
 
-![image info](./heltec_lora_v2_module.png)
+![module](./heltec_lora_v2_module.png)
 
-![image info](./heltec_lora_v2_pinout.png)
+![pinout](./heltec_lora_v2_pinout.png)
 
 # Libraries to include : 
 //Libraries for LoRa
@@ -44,3 +44,9 @@
 - define SCREEN_WIDTH 128 // OLED display width, in pixels
 - define SCREEN_HEIGHT 64 // OLED display height, in pixels
 - define SCREEN_ADDRESS 0x3c
+
+# images du test
+
+![sender](./heltec_lora_v2_sender.png)
+
+![receiver](./heltec_lora_v2_receiver.png)
