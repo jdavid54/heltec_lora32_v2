@@ -47,6 +47,6 @@
 
 # images du test
 
-![sender](./heltec_lora_v2_sender.png)
+![sender](./lora_sender.jpg)
 
-![receiver](./heltec_lora_v2_receiver.png)
+![receiver](./lora_receiver.jpg)
